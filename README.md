@@ -1,7 +1,7 @@
 <body>
   <button onclick="toggleTheme()" id="theme-toggle">☀️ light Mode</button>
   <h1>Welcome to My Website</h1>
-  <p>This site supports dark mode!</p>
+  <p>This site supports light mode!</p>
 
   <script>
     function toggleTheme() {
